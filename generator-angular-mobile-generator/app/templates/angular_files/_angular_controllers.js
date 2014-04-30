@@ -1,0 +1,1 @@
+head.load('js/controllers/home.js');

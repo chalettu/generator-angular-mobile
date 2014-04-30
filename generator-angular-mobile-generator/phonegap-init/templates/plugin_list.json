@@ -1,0 +1,6 @@
+[
+{"plugin_id":"txt_msg","Description":"Text Msging Plugin","url":"https://github.com/aharris88/phonegap-sms-plugin.git"},
+{"plugin_id":"camera","Description":"Camera plugin","url":"https://git-wip-us.apache.org/repos/asf/cordova-plugin-camera.git"},
+{"plugin_id":"gps","Description":"GPS Plugin","url":"https://git-wip-us.apache.org/repos/asf/cordova-plugin-geolocation.git"},
+{"plugin_id":"file_transfer","Description":"File Transfer","url":"https://git-wip-us.apache.org/repos/asf/cordova-plugin-file-transfer.git"}
+]
