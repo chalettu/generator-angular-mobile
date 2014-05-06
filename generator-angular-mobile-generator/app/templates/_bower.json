@@ -4,7 +4,7 @@
   "dependencies": {
     "jquery": "~2.1.0",
     "angular-resource": "~1.2.14",
-    "ionic": "~1.0.0-beta.1",
+    "ionic": "~1.0.0-beta.3",
     "lawnchair": "~0.6.3",
     "angucomplete": "*",
     "ngModal": "~1.2.0",
