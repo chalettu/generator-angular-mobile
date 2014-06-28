@@ -3,15 +3,14 @@
   "version": "0.0.1",
   "dependencies": {
     "jquery": "~2.1.0",
-    "angular-resource": "~1.2.14",
-    "ionic": "~1.0.0-beta.3",
+    "angular-resource": ">1.2.14",
+    "ionic": "v1.0.0-beta.8",
     "lawnchair": "~0.6.3",
     "angucomplete": "*",
     "ngModal": "~1.2.0",
     "greensock": "~1.11.5",
     "hammerjs": "~1.0.7",
-    "headjs": "~1.0.3",
-    "fastclick": "~1.0.0"
+    "headjs": "~1.0.3"
   },
   "license": "MIT",
   "private": true,

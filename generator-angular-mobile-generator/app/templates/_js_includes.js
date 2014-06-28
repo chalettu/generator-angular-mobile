@@ -17,7 +17,7 @@ head.js(
 
 	{hammer:'js/libs/hammerjs/hammer.min.js'},
 	//{scroll: 'js/libs/iscroll.js'},
-	{fastclick: 'js/libs/fastclick/lib/fastclick.js'},
+	//{fastclick: 'js/libs/fastclick/lib/fastclick.js'},
 	{green_sock: "js/libs/greensock/src/minified/TweenMax.min.js"},
 	{draggable: "js/libs/greensock/src/minified/utils/Draggable.min.js"},
 	
